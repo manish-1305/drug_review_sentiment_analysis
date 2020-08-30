@@ -5,8 +5,8 @@ The project was implemented with Python and used Juypter as the developing tool 
 In datasets.zip , the retrain file can be used as a sample retrain file , and the sample file can be used as sample file for bulk upload . 
 
  ### The application funtionalities are-
+ We used Flask,HTML,CSS to build the app and UI
 
- we used Flask,HTML,CSS to build the app and UI
 => You can write your comment or review in the text box and predict it to get the Sentiment of the comment ,,
 You can upload csv/excel file for bulk predictions,,
 You can also download sample file for your reference,,
