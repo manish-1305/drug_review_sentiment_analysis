@@ -11,7 +11,7 @@ You can upload csv/excel file for bulk predictions,,
 You can also download sample file for your reference,,
 You can retrain the model with your dataset aswell .
 
-video- https://www.youtube.com/embed/IGklOvyPg7Q
+app demo- https://www.youtube.com/embed/IGklOvyPg7Q
 
 ## Final App UI
 
