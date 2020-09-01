@@ -12,7 +12,7 @@ You can upload csv/excel file for bulk predictions,,
 You can also download sample file for your reference,,
 You can retrain the model with your dataset aswell .
 
-heroku app link :- https://drug-reviews-sentiment.herokuapp.com/
+Heroku app link :- https://drug-reviews-sentiment.herokuapp.com/
 
 app demo- https://www.youtube.com/embed/vMi_nhBFwtI
 
