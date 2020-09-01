@@ -4,7 +4,7 @@ This is the project to implement sentiment analysis of drug reviews, datasets ca
 The project was implemented with Python and used Juypter as the developing tool . datasets.zip contains the datasets which are being used in this app .
 In datasets.zip , the retrain file can be used as a sample retrain file , and the sample file can be used as sample file for bulk upload . 
 
-=> we used nltk vader sentiment analyser to find thwe sentiment scores and and used 4 models to test i.e logistic regression, Multinomial NB, linear SVC, Random forest but
+=> We used nltk vader sentiment analyser to find thwe sentiment scores and and used 4 models to test i.e logistic regression, Multinomial NB, linear SVC, Random forest but
    the linear SVC gives the best accuracy its about 94%.
    
  => We used Flask,HTML,CSS to build the app and UI, Deployed it in AWS and Heroku Cloud.
