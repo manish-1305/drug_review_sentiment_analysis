@@ -7,7 +7,7 @@ In datasets.zip , the retrain file can be used as a sample retrain file , and th
 => We used nltk vader sentiment analyser to find thwe sentiment scores and and used 4 models to test i.e logistic regression, Multinomial NB, linear SVC, Random forest but
    the linear SVC gives the best accuracy its about 94%.
    
- => We used Flask,HTML,CSS to build the app and UI, Deployed it in AWS and Heroku Cloud.
+ => We used Flask,HTML,CSS to build the app and UI, Deployed it on AWS and Heroku Cloud.
  
  ### The application funtionalities are-
 => You can write your comment or review in the text box and predict it to get the Sentiment of the comment ,,
